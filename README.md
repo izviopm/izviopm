@@ -5,7 +5,7 @@
 I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** and **SQL Server**, and work with **Go, Python, Node.js and React / Next.js** when the job calls for it. 7+ years across the reinsurance and manufacturing industries.
 
 - 🏢 **IT System Development Specialist** at PT Reasuransi MAIPARK Indonesia — building enterprise applications for reinsurance business processes
-- 🏭 Previously **Digital Transformation Programmer** at PT Mattel Indonesia — OEE monitoring, machine-data pipelines, HMI/SCADA integration
+- 🏭 Previously **Digital Transformation Programmer** at PT Mattel Indonesia — OEE monitoring, machine-data pipelines, PLC/IPC programming and HMI/SCADA integration
 - 🎓 Pursuing a **Master of Computer Science** at Universitas Budi Luhur
 - 📫 [izvioprijaya@gmail.com](mailto:izvioprijaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/izvio-prijaya-mumin-ba0463149/)
 
@@ -49,6 +49,13 @@ I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**Industrial Automation**
+
+![Omron PLC](https://img.shields.io/badge/Omron_PLC-005EB8?style=flat-square)
+![Beckhoff TwinCAT 3](https://img.shields.io/badge/Beckhoff_TwinCAT_3-E2001A?style=flat-square)
+![SCADA](https://img.shields.io/badge/SCADA-555555?style=flat-square)
+![HMI](https://img.shields.io/badge/HMI-555555?style=flat-square)
+
 ---
 
 ### 💼 What I Build
@@ -63,6 +70,7 @@ I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** 
 - Item master & procurement-guideline application (ASP.NET Core, EF Core, React, Docker)
 - Python services that turn machine signals into error logs for downtime analysis
 - Telegram bot for mechanic check-in and automatic machine-downtime job dispatch
+- PLC programming with **Omron** and industrial PC (IPC) programming with **Beckhoff TwinCAT 3**
 - HMIs for production machines integrated with SCADA
 
 ---

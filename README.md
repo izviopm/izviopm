@@ -4,7 +4,7 @@
 
 I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** and **SQL Server**, and work with **Go, Python, Node.js and React / Next.js** when the job calls for it. 7+ years across the reinsurance and manufacturing industries.
 
-- 🏢 **IT System Development Specialist** at PT Reasuransi MAIPARK Indonesia — leading a development team building reinsurance business applications
+- 🏢 **IT System Development Specialist** at PT Reasuransi MAIPARK Indonesia — building enterprise applications for reinsurance business processes
 - 🏭 Previously **Digital Transformation Programmer** at PT Mattel Indonesia — OEE monitoring, machine-data pipelines, HMI/SCADA integration
 - 🎓 Pursuing a **Master of Computer Science** at Universitas Budi Luhur
 - 📫 [izvioprijaya@gmail.com](mailto:izvioprijaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/izvio-prijaya-mumin-ba0463149/)
@@ -51,19 +51,26 @@ I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** 
 
 ---
 
-### 📌 Featured Work
+### 💼 What I Build
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**golang-myskill**](https://github.com/izviopm/golang-myskill) | REST APIs with JWT auth, validation and middleware, plus a TCP socket client–server | Go · Gin · GORM · PostgreSQL |
-| [**ganjil-genap**](https://github.com/izviopm/ganjil-genap) · [live](https://ganjil-genap-six.vercel.app/) | Web app comparing 8 ways to check parity without the modulus operator | Next.js · TypeScript · Tailwind · Vercel |
-| [**learn-elasticsearch**](https://github.com/izviopm/learn-elasticsearch) | Elasticsearch indexing, mapping & query exercises | Elasticsearch · REST |
-| [**nodejs-crud-sqlserver**](https://github.com/izviopm/nodejs-crud-sqlserver) | CRUD REST API on SQL Server | Node.js · Express · Sequelize |
-| [**learn-react**](https://github.com/izviopm/learn-react) | React component & data-fetching practice | React · Vite · Tailwind · Axios |
+**Reinsurance — PT Reasuransi MAIPARK Indonesia**
+- Enterprise web applications for reinsurance business processes, with ASP.NET Core Web API & MVC backends and Next.js / React front-ends
+- RESTful APIs that connect internal applications and keep data consistent across systems
+- SQL Server performance work: stored-procedure optimization, indexing and table partitioning
+
+**Manufacturing — PT Mattel Indonesia**
+- OEE (Overall Equipment Effectiveness) monitoring systems for three production areas
+- Item master & procurement-guideline application (ASP.NET Core, EF Core, React, Docker)
+- Python services that turn machine signals into error logs for downtime analysis
+- Telegram bot for mechanic check-in and automatic machine-downtime job dispatch
+- HMIs for production machines integrated with SCADA
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ How I Work
 
-![Izvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=izviopm&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izviopm&layout=compact&hide_border=true)
+- **End-to-end ownership** — I typically carry a project on my own from start to finish: gathering requirements with business users, designing the database, building backend and frontend, testing, deployment and production support.
+- **Maintainable by default** — clean code, layered architecture (controller → service → data), version control and documentation, so the next person can pick it up.
+- **Data-aware** — most of what I build sits on SQL Server, so query performance and data integrity are part of the job, not an afterthought.
+
+> 🔒 Most of my professional work lives in private company repositories. Public repos here are learning projects and experiments.

@@ -2,9 +2,9 @@
 
 **Software Engineer · .NET Backend & Full-Stack Developer** — Jakarta, Indonesia
 
-I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** and **SQL Server**, and work with **Go, Python, Node.js and React / Next.js** when the job calls for it. 7+ years across the reinsurance and manufacturing industries.
+I build enterprise web and mobile applications, APIs and the databases behind them, mostly with **C# / ASP.NET Core** and **SQL Server**, and work with **Go, Python, Node.js and React / Next.js** when the job calls for it. 7+ years across the reinsurance and manufacturing industries.
 
-- 🏢 **IT System Development Specialist** at PT Reasuransi MAIPARK Indonesia — building enterprise applications for reinsurance business processes
+- 🏢 **IT System Development Specialist** at PT Reasuransi MAIPARK Indonesia — web & mobile applications and database management for reinsurance business processes
 - 🏭 Previously **Digital Transformation Programmer** at PT Mattel Indonesia — OEE monitoring, machine-data pipelines, PLC/IPC programming and HMI/SCADA integration
 - 🎓 Pursuing a **Master of Computer Science** at Universitas Budi Luhur
 - 📫 [izvioprijaya@gmail.com](mailto:izvioprijaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/izvio-prijaya-mumin-ba0463149/)
@@ -62,8 +62,8 @@ I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** 
 
 **Reinsurance — PT Reasuransi MAIPARK Indonesia**
 - Enterprise web applications for reinsurance business processes, with ASP.NET Core Web API & MVC backends and Next.js / React front-ends
-- RESTful APIs that connect internal applications and keep data consistent across systems
-- SQL Server performance work: stored-procedure optimization, indexing and table partitioning
+- Mobile applications, plus the RESTful APIs that connect mobile, web and internal systems
+- Database management for SQL Server: schema design, stored-procedure optimization, indexing, table partitioning and ongoing maintenance
 
 **Manufacturing — PT Mattel Indonesia**
 - OEE (Overall Equipment Effectiveness) monitoring systems for three production areas

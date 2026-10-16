@@ -7,7 +7,7 @@ I build enterprise web and mobile applications, APIs and the databases behind th
 - 🏢 **IT System Development Specialist** at PT Reasuransi MAIPARK Indonesia — web & mobile applications and database management for reinsurance business processes
 - 🏭 Previously **Digital Transformation Programmer** at PT Mattel Indonesia — OEE monitoring, machine-data pipelines, PLC/IPC programming and HMI/SCADA integration
 - 🎓 Pursuing a **Master of Computer Science** at Universitas Budi Luhur
-- 🌐 **Portfolio:** [portofolio-izvio.vercel.app](https://portofolio-izvio.vercel.app/en) — case studies of the enterprise systems I've built (architecture, CI/CD, key decisions)
+- 🌐 **Portfolio:** [portofolio-eight-eta-74.vercel.app](https://portofolio-eight-eta-74.vercel.app/en) — case studies of the enterprise systems I've built (architecture, CI/CD, key decisions)
 - 📫 [izvioprijaya@gmail.com](mailto:izvioprijaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/izvio-prijaya-mumin-ba0463149/)
 
 ---

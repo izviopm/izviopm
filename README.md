@@ -2,7 +2,7 @@
 
 **Software Engineer · .NET Backend & Full-Stack Developer** — Jakarta, Indonesia
 
-I build enterprise web and mobile applications, APIs and the databases behind them, mostly with **C# / ASP.NET Core** and **SQL Server**, and work with **Go, Python, Node.js and React / Next.js** when the job calls for it. 7+ years across the reinsurance and manufacturing industries.
+I build enterprise web and mobile applications, APIs and the databases behind them, mostly with **C# / ASP.NET Core** and **SQL Server**, and work with **Flutter, Go, Python, Node.js and React / Next.js** when the job calls for it. 7+ years across the reinsurance and manufacturing industries.
 
 - 🏢 **IT System Development Specialist** at PT Reasuransi MAIPARK Indonesia — web & mobile applications and database management for reinsurance business processes
 - 🏭 Previously **Digital Transformation Programmer** at PT Mattel Indonesia — OEE monitoring, machine-data pipelines, PLC/IPC programming and HMI/SCADA integration
@@ -18,6 +18,7 @@ I build enterprise web and mobile applications, APIs and the databases behind th
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -38,6 +39,11 @@ I build enterprise web and mobile applications, APIs and the databases behind th
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 **Data & Tools**
 
@@ -62,7 +68,7 @@ I build enterprise web and mobile applications, APIs and the databases behind th
 
 **Reinsurance — PT Reasuransi MAIPARK Indonesia**
 - Enterprise web applications for reinsurance business processes, with ASP.NET Core Web API & MVC backends and Next.js / React front-ends
-- Mobile applications, plus the RESTful APIs that connect mobile, web and internal systems
+- Mobile applications with **Flutter**, plus the RESTful APIs that connect mobile, web and internal systems
 - Database management for SQL Server: schema design, stored-procedure optimization, indexing, table partitioning and ongoing maintenance
 
 **Manufacturing — PT Mattel Indonesia**

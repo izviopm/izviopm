@@ -6,7 +6,7 @@ I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** 
 
 - 🏢 **IT System Development Specialist** at PT Reasuransi MAIPARK Indonesia — leading a development team building reinsurance business applications
 - 🏭 Previously **Digital Transformation Programmer** at PT Mattel Indonesia — OEE monitoring, machine-data pipelines, HMI/SCADA integration
-- 🎓 Pursuing a **Master of Computer Science** at Universitas Budi Luhur — researching **Graph Neural Network–based vulnerability detection** for C# / .NET Web APIs
+- 🎓 Pursuing a **Master of Computer Science** at Universitas Budi Luhur
 - 📫 [izvioprijaya@gmail.com](mailto:izvioprijaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/izvio-prijaya-mumin-ba0463149/)
 
 ---
@@ -48,7 +48,6 @@ I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
 
@@ -61,8 +60,6 @@ I build enterprise web applications and APIs, mostly with **C# / ASP.NET Core** 
 | [**learn-elasticsearch**](https://github.com/izviopm/learn-elasticsearch) | Elasticsearch indexing, mapping & query exercises | Elasticsearch · REST |
 | [**nodejs-crud-sqlserver**](https://github.com/izviopm/nodejs-crud-sqlserver) | CRUD REST API on SQL Server | Node.js · Express · Sequelize |
 | [**learn-react**](https://github.com/izviopm/learn-react) | React component & data-fetching practice | React · Vite · Tailwind · Axios |
-
-**Research (private):** API-flow-aware vulnerability detection for .NET Web APIs — Roslyn-based code extractor (C#), vulnerable/safe code-pair dataset builder (Python), and a GNN pipeline with PyTorch Geometric.
 
 ---
 

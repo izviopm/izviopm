@@ -90,4 +90,8 @@ I build enterprise web and mobile applications, APIs and the databases behind th
 
 > 🔒 Most of my professional work lives in private company repositories. Public repos here are learning projects and experiments.
 
+---
+
+<br>
+
 <p align="center"><img src="./assets/contribution-city.svg" alt="Contribution city: GitHub contributions of the last year as an isometric skyline" /></p>

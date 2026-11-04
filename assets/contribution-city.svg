@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 290" width="412" height="290">
 <rect width="100%" height="100%" fill="#0d1117"/>
 <text x="20" y="34" font-family="monospace" font-size="16" fill="#e6edf3">contribution city</text>
-<text x="20" y="56" font-family="monospace" font-size="12" fill="#8b949e">695 contributions in the last year</text>
+<text x="20" y="56" font-family="monospace" font-size="12" fill="#8b949e">696 contributions in the last year</text>
 <polygon points="62.0,90.0 68.0,93.0 62.0,96.0 56.0,93.0" fill="#161b22"/>
 <polygon points="56.0,93.0 62.0,96.0 56.0,99.0 50.0,96.0" fill="#161b22"/>
 <polygon points="68.0,93.0 74.0,96.0 68.0,99.0 62.0,96.0" fill="#161b22"/>
@@ -596,9 +596,9 @@
 <polygon points="332.0,261.0 338.0,258.0 338.0,243.4 332.0,246.4" fill="#005728"/>
 <polygon points="332.0,240.4 338.0,243.4 332.0,246.4 326.0,243.4" fill="#006d32"/>
 <polygon points="344.0,255.0 350.0,258.0 344.0,261.0 338.0,258.0" fill="#161b22"/>
-<polygon points="350.0,258.0 356.0,261.0 356.0,241.0 350.0,238.0" fill="#176427"/>
-<polygon points="356.0,261.0 362.0,258.0 362.0,238.0 356.0,241.0" fill="#1e8534"/>
-<polygon points="356.0,235.0 362.0,238.0 356.0,241.0 350.0,238.0" fill="#26a641"/>
+<polygon points="350.0,258.0 356.0,261.0 356.0,240.5 350.0,237.5" fill="#176427"/>
+<polygon points="356.0,261.0 362.0,258.0 362.0,237.5 356.0,240.5" fill="#1e8534"/>
+<polygon points="356.0,234.5 362.0,237.5 356.0,240.5 350.0,237.5" fill="#26a641"/>
 <polygon points="320.0,261.0 326.0,264.0 326.0,256.0 320.0,253.0" fill="#082919"/>
 <polygon points="326.0,264.0 332.0,261.0 332.0,253.0 326.0,256.0" fill="#0b3621"/>
 <polygon points="326.0,250.0 332.0,253.0 326.0,256.0 320.0,253.0" fill="#0e4429"/>

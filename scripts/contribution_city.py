@@ -118,7 +118,7 @@ def render(calendar):
     # Jittered grid: one star per cell, so the sky is spread evenly instead of clumping.
     cell = 34
     for gx in range(int(width // cell) + 1):
-        for gy in range(int((MARGIN_TOP - 30) // cell) + 1):
+        for gy in range(int(height // cell) + 1):
             if rng.random() < 0.7:
                 x, y = gx * cell + rng.uniform(0, cell), gy * cell + rng.uniform(0, cell)
                 cls = rng.choice(["t", "t2", "t3"])

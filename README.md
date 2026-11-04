@@ -8,7 +8,9 @@ I build enterprise web and mobile applications, APIs and the databases behind th
 - 🏭 Previously **Digital Transformation Programmer** at PT Mattel Indonesia — OEE monitoring, machine-data pipelines, PLC/IPC programming and HMI/SCADA integration
 - 🎓 Pursuing a **Master of Computer Science** at Universitas Budi Luhur
 - 🌐 **Portfolio:** [izvio.vercel.app](https://izvio.vercel.app/en) — case studies of the enterprise systems I've built (architecture, CI/CD, key decisions)
-- 📫 [izvioprijaya@gmail.com](mailto:izvioprijaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/izvio-prijaya-mumin-ba0463149/)
+- 📫 [izvioprijaya@gmail.com](mailto:izvioprijaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/izvio-prijaya-mumin/)
+
+<p align="center"><img src="./assets/contribution-city.svg" alt="Contribution city: GitHub contributions of the last year as an isometric skyline" /></p>
 
 ---
 

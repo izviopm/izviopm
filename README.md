@@ -10,8 +10,6 @@ I build enterprise web and mobile applications, APIs and the databases behind th
 - 🌐 **Portfolio:** [izvio.vercel.app](https://izvio.vercel.app/en) — case studies of the enterprise systems I've built (architecture, CI/CD, key decisions)
 - 📫 [izvioprijaya@gmail.com](mailto:izvioprijaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/izvio-prijaya-mumin/)
 
-<p align="center"><img src="./assets/contribution-city.svg" alt="Contribution city: GitHub contributions of the last year as an isometric skyline" /></p>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -91,3 +89,5 @@ I build enterprise web and mobile applications, APIs and the databases behind th
 - **Data-aware** — most of what I build sits on SQL Server, so query performance and data integrity are part of the job, not an afterthought.
 
 > 🔒 Most of my professional work lives in private company repositories. Public repos here are learning projects and experiments.
+
+<p align="center"><img src="./assets/contribution-city.svg" alt="Contribution city: GitHub contributions of the last year as an isometric skyline" /></p>

@@ -22,8 +22,8 @@ query($login: String!) {
 TILE_W, TILE_H = 12, 6
 MARGIN_X, MARGIN_TOP = 20, 90
 GROUND = "#161b22"
-# GitHub's green ramp, dim to bright, one colour per building level.
-LEVELS = ["#0e4429", "#006d32", "#26a641", "#39d353"]
+# Neon blue ramp, dim to bright, one colour per building level.
+LEVELS = ["#0b3d91", "#1f6feb", "#388bfd", "#79c0ff"]
 
 
 def fetch(login, token):

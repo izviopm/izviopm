@@ -115,17 +115,23 @@ def render(calendar):
 
     # Sky first, so buildings sit in front of it.
     sky = []
-    for _ in range(60):
-        x, y = rng.uniform(0, width), rng.uniform(0, MARGIN_TOP - 30)
-        cls = rng.choice(["t", "t2", "t3"])
-        sky.append(f'<circle cx="{x:.0f}" cy="{y:.0f}" r="{rng.choice([0.6, 1, 1.4]):.1f}" fill="#e6edf3" class="{cls}"/>')
+    # Jittered grid: one star per cell, so the sky is spread evenly instead of clumping.
+    cell = 34
+    for gx in range(int(width // cell) + 1):
+        for gy in range(int((MARGIN_TOP - 30) // cell) + 1):
+            if rng.random() < 0.7:
+                x, y = gx * cell + rng.uniform(0, cell), gy * cell + rng.uniform(0, cell)
+                cls = rng.choice(["t", "t2", "t3"])
+                sky.append(f'<circle cx="{x:.0f}" cy="{y:.0f}" r="{rng.choice([0.6, 1, 1.4]):.1f}" fill="#e6edf3" class="{cls}"/>')
     moon = [f'<circle cx="{width - 70:.0f}" cy="60" r="18" fill="#e6edf3"/>',
             f'<circle cx="{width - 63:.0f}" cy="54" r="16" fill="#0d1117"/>']
     plane_x, plane_y = width * 0.35, 96
     plane = [
-        f'<g transform="translate({plane_x:.0f},{plane_y:.0f})">',
-        '<path d="M0,0 L-22,-4 L-26,-10 L-22,-10 L-12,-4 L-14,2 L-22,10 L-18,10 L-6,2 Z" fill="#e6edf3"/>',
-        '<circle cx="-26" cy="-10" r="2" fill="#ff5f56" class="b"/>',
+        f'<g transform="translate({plane_x:.0f},{plane_y:.0f}) scale(0.8)">',
+        # Top-down airliner, nose to the right; the red light on the top wingtip blinks.
+        '<path d="M22,0 L8,-2.5 L4,-2.5 L-6,-16 L-10,-16 L-6,-2.5 L-18,-2.5 L-22,-8 L-25,-8 L-22,0 L-25,8 L-22,8 L-18,2.5 L-6,2.5 L-10,16 L-6,16 L4,2.5 L8,2.5 Z" fill="#e6edf3"/>',
+        '<circle cx="-10" cy="-16" r="1.6" fill="#ff5f56" class="b"/>',
+        '<circle cx="-10" cy="16" r="1.6" fill="#7ee787"/>',
         "</g>",
     ]
 

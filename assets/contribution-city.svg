@@ -300,7 +300,7 @@
 <circle cx="-10" cy="16" r="1.6" fill="#7ee787"/>
 </g>
 <text x="24" y="34" font-family="monospace" font-size="18" fill="#79c0ff">contribution city</text>
-<text x="24" y="56" font-family="monospace" font-size="13" fill="#8b949e">704 contributions in the last year</text>
+<text x="24" y="56" font-family="monospace" font-size="13" fill="#8b949e">680 contributions in the last year</text>
 <polygon points="108.0,180.0 120.0,186.0 108.0,192.0 96.0,186.0" fill="#161b22"/>
 <polygon points="96.0,186.0 108.0,192.0 96.0,198.0 84.0,192.0" fill="#161b22"/>
 <polygon points="120.0,186.0 132.0,192.0 120.0,198.0 108.0,192.0" fill="#161b22"/>
@@ -541,6 +541,7 @@
 <polygon points="636.0,492.0 648.0,498.0 636.0,504.0 624.0,498.0" fill="#161b22"/>
 <polygon points="732.0,492.0 744.0,498.0 732.0,504.0 720.0,498.0" fill="#161b22"/>
 <polygon points="648.0,498.0 660.0,504.0 648.0,510.0 636.0,504.0" fill="#161b22"/>
+<polygon points="720.0,498.0 732.0,504.0 720.0,510.0 708.0,504.0" fill="#161b22"/>
 <polygon points="636.0,504.0 648.0,510.0 636.0,516.0 624.0,510.0" fill="#161b22"/>
 <polygon points="660.0,504.0 672.0,510.0 660.0,516.0 648.0,510.0" fill="#161b22"/>
 <polygon points="624.0,510.0 636.0,516.0 624.0,522.0 612.0,516.0" fill="#161b22"/>
